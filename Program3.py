@@ -1,4 +1,4 @@
-# Author Gregory Mertens
+
 # Date Sept 20th 2025
 # Program will import data from CSV file and print out the data in a text window and graphs.
 # I confirm that this program has not been copied from any other student or website.
@@ -82,4 +82,5 @@ def main():
 
 
 main()
+
 
